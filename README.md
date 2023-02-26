@@ -18,6 +18,8 @@ I'm back-end software developer.
 
 My preferred technology stack: **Java SE**, **Hibernate**, **Spring Boot**, **PostgreSQL**, **MySQL**, **Docker**, **Apache Maven**.
 ____
+Contact with me:
+![a.poltavski@yandex.ru](mailto: a.poltavski@yandex.ru)
 
 ____
 
