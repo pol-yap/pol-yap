@@ -20,7 +20,7 @@ My preferred technology stack: **Java SE**, **Hibernate**, **Spring Boot**, **Po
 ____
 Contact with me:
 
-![](mailto: a.poltavski@yandex.ru)
+![📫](mailto: a.poltavski@yandex.ru)
 
 ____
 
