@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **pol-yap/pol-yap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#I'm back-end software developer.
-My preferred technology stack: Java SE, Hibernate, Spring Boot, PostgreSQL, MySQL, Docker.
+### I'm back-end software developer.
+### My preferred technology stack: Java SE, Hibernate, Spring Boot, PostgreSQL, MySQL, Docker.
