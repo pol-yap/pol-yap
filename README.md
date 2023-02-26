@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm back-end software developer.
 
-My preferred technology stack: **Java SE**, **Hibernate**, **Spring Boot**, **PostgreSQL**, **MySQL**, **Docker**.
+My preferred technology stack: **Java SE**, **Hibernate**, **Spring Boot**, **PostgreSQL**, **MySQL**, **Docker**, **Apache Maven**.
 ____
 
 ![](https://www.codewars.com/users/pol.somewhere/badges/small)
