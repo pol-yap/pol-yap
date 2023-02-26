@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm back-end software developer. 
+I'm back-end software developer.
+
 My preferred technology stack: **Java SE**, **Hibernate**, **Spring Boot**, **PostgreSQL**, **MySQL**, **Docker**.
